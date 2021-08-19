@@ -25,7 +25,7 @@ $ pkg install git
 $ git clone https://github.com/Grig773/Banner
 ```
 ```
-$ cd T-Banner
+$ cd Banner
 ```
 ```
 $ bash t-banner.sh
