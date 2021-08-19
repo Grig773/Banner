@@ -22,7 +22,7 @@ $ apt-get upgrade
 $ pkg install git
 ```
 ```
-$ git clone https://github.com/Cyber-Anonymous/T-Banner
+$ git clone https://github.com/Grig773/Banner
 ```
 ```
 $ cd T-Banner
